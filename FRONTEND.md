@@ -1,5 +1,7 @@
 # Frontend: React + TypeScript
 
+View theme: <https://sakai.primereact.org/blocks>
+
 - [Frontend: React + TypeScript](#frontend-react--typescript)
   - [1. Folder Structure](#1-folder-structure)
   - [2. Giải thích chi tiết](#2-giải-thích-chi-tiết)
