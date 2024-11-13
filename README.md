@@ -18,6 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
+- Structure code: [Folder Structure](FRONTEND.md)
 To learn more about Next.js, take a look at the following resources:
 
 -   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
